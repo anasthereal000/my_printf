@@ -68,4 +68,3 @@ cc -Wall -Wextra -Werror main.c libftprintf.a -o test
 - `man 3 printf`, `man 3 stdarg`, `man 2 write`
 - The C standard library documentation for variadic functions
 - System V AMD64 ABI, for how variadic arguments are passed
-
