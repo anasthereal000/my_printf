@@ -69,5 +69,3 @@ cc -Wall -Wextra -Werror main.c libftprintf.a -o test
 - The C standard library documentation for variadic functions
 - System V AMD64 ABI, for how variadic arguments are passed
 
-**Use of AI:** AI was used as a learning aid to understand variadic functions and the `va_list` structure, to learn gdb for debugging, and to help write the Makefile. The design and implementation were tested and understood by the author.
->>>>>>> f3344d3 (ft_printf first push)
